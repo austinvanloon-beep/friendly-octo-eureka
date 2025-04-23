@@ -16,4 +16,4 @@ RSpec.describe Attendee do
             expect(attendee.budget).to eq(50)
         end
     end 
-end 
+end
